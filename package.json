@@ -1,0 +1,11 @@
+{
+  "name": "langs",
+  "version": "1.0.0",
+  "description": "Naming languages for a few of my fictions as Meristem Formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Forrest Wolf <forrest.weiswolf@gmail.com>",
+  "license": "ISC"
+}
