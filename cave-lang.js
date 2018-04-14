@@ -63,6 +63,5 @@ for (let index = 0; index < 10; index++) {
 	console.log(
 		word.expand()
 			.replace(/([sf])g/, (match, fricative) => fricative + 'c')
-
 	)
 }
